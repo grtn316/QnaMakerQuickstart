@@ -1,0 +1,13 @@
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.exe
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.deps.json
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.runtimeconfig.json
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.runtimeconfig.dev.json
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.dll
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\bin\Debug\netcoreapp3.1\QnaMakerQuickstart.pdb
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.csprojAssemblyReference.cache
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.AssemblyInfoInputs.cache
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.AssemblyInfo.cs
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.csproj.CoreCompileInputs.cache
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.dll
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.pdb
+C:\Users\dbaumgarten\source\repos\QnaMakerQuickstart\QnaMakerQuickstart\obj\Debug\netcoreapp3.1\QnaMakerQuickstart.genruntimeconfig.cache

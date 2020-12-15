@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3oF1ic6HrrdbldU/ndjm/4aHhM6erNriothdTU3wYD7QvDAXhkSGBMwOwkLujWRQQzHvjkWxCVyv2V2FHLYOAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dbaumgarten\\source\\repos\\QnaMakerQuickstart\\QnaMakerQuickstart\\QnaMakerQuickstart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dbaumgarten\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dbaumgarten\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
